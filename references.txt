@@ -1,0 +1,31 @@
+[0] "CoInitializeEx function" https://msdn.microsoft.com/en-us/library/windows/desktop/ms695279(v=vs.85).aspx
+
+[1] "Handling CoInitialize (and CoUninitialize!)" https://blogs.msdn.microsoft.com/benkuhn/2006/09/15/handling-coinitialize-and-couninitialize/
+
+[2] "Using the System Device Enumerator" https://msdn.microsoft.com/en-us/library/windows/desktop/dd407292(v=vs.85).aspx
+
+[3] "CoUninitialize function" https://msdn.microsoft.com/en-us/library/windows/desktop/ms688715(v=vs.85).aspx
+
+[4] "videoInput::listDevices" https://github.com/ofTheo/videoInput/blob/master/videoInputSrcAndDemos/libs/videoInput/videoInput.cpp#L811
+
+[5] "Selecting a Capture Device" https://msdn.microsoft.com/en-us/library/windows/desktop/dd377566(v=vs.85).aspx
+
+[6] "IEnumMoniker::Next method" https://msdn.microsoft.com/en-us/library/windows/desktop/dd542677(v=vs.85).aspx
+
+[7] "String Manipulation Functions" https://msdn.microsoft.com/en-us/library/ms221105.aspx
+
+[8] "Filter Graph Manager" https://msdn.microsoft.com/en-us/library/windows/desktop/dd375786(v=vs.85).aspx
+
+[9] "IFilterGraph2::AddSourceFilterForMoniker method" https://msdn.microsoft.com/en-us/library/windows/desktop/dd390011(v=vs.85).aspx
+
+[10] "VARIANT Structure" https://msdn.microsoft.com/en-us/library/windows/desktop/dd373687(v=vs.85).aspx
+
+[11] "VARIANT Structure" https://msdn.microsoft.com/en-us/library/windows/desktop/ms221627(v=vs.85).aspx
+
+[12] "SYSTEMTIME structure" https://msdn.microsoft.com/en-us/library/windows/desktop/ms724950(v=vs.85).aspx
+
+[13] "BSTR" https://msdn.microsoft.com/en-us/library/windows/desktop/ms221069(v=vs.85).aspx
+
+[14] "IMemInputPin interface" https://msdn.microsoft.com/en-us/library/dd407073
+
+
